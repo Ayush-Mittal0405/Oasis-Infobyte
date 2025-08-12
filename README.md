@@ -100,5 +100,5 @@ I would like to thank **Oasis Infobyte** and **AICTE** for providing me the oppo
 
 ## 📬 Contact
 
-**Ayush Mittal**
+**Ayush Mittal** <br>
 [📧 Email](mailto:ayushmittal0456@gmail.com) | [💼 LinkedIn](www.linkedin.com/in/ayush-mittal-741946313) | [🔗 GitHub](https://github.com/Ayush-Mittal0405)
